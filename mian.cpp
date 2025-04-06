@@ -9,6 +9,6 @@ int main(){
 
 
     cout << "hello world3 beta" << endl;
-    cout << "beta 5" << endl;
+
     return 0;
 }
